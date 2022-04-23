@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    color: red
+}
+
+h1 {
+    color: yellow
+}
+
+
+.bee {
+    color: chocolate;
+    font-size: 40px;
+    letter-spacing: 10px;
+    line-height: 25px;
+    font-weight: lighter;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+
+    text-decoration-line: underline;
+    text-decoration-color: green;
+    text-decoration-style: double;
+    text-decoration-thickness: 5px;
+
+    text-decoration: upperline blue dotted 2px;
+    text-transform: uppercase;
+}
+
+
+.barry {
+    width: 600px;
+    height: 400px;
+    z-index: 1;
+    /* box-shadow: 40px 50px 23px gold; */
+    border-radius: 20px;
+    padding: 40px;
+    border: 5px solid #000;
+    margin: 20px 20px 30px 40px;
+}
+
+
+
+.regular-div {
+    background-color: indigo;
+    opacity: 0.8;
+
+}
