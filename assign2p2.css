@@ -1,0 +1,151 @@
+/* Ignore following classes */
+* {
+    font-family: "Montserrat", sans-serif;
+    background-color: #eeeeee;
+  }
+  
+  #intro {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .insideborder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .para {
+    font-weight: 300;
+    margin-left: 10px;
+  }
+  
+  h2 {
+    font-size: medium;
+    font-weight: 200;
+  }
+  
+  /* Classes that you might find useful */
+  /* Note* These classes do not cover every possibloe case to build you flags, you will have to continue to add your own*/
+  
+  .flag {
+    height: 300px;
+    width: 500px;
+    border-style: solid;
+    margin-bottom: 5rem;
+  }
+  .square {
+    height: 165px;
+    width: 166px;
+    border-style: transparent;
+    z-index: 3;
+    display: flex;
+    left: 702px;
+    top: 2365px;
+    position: absolute;
+    justify-content: flex-start;
+    
+
+  }
+  .horiz {
+    display: flex;
+    flex-direction: row;
+  }
+
+ 
+  
+  .twovert {
+    height: 50%;
+  }
+  
+  .threevert {
+    height: 33.3%;
+  }
+  
+  .ninevert {
+    height: 11.1%;
+  }
+
+  .fivevert {
+    height: 20%;
+  }
+
+  .threehoriz {
+    width: 33.3%;
+  }
+  .fivehoriz {
+    width: 20%;
+  }
+  .sixvert {
+    height: 16.6%;
+  }
+  
+  .skinny {
+    height: 17.5%;
+  }
+  
+  .fat {
+    height: 30%;
+  }
+  
+  .circle {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 85px;
+    top: 50px;
+  }
+  
+  /* Colors/ Feel free to add your own! */
+
+  .image {
+    z-index: 3;
+    display: flex;
+    left: 905px;
+    top: 2030px;
+    position: absolute;
+    justify-content: flex-start;
+  }
+  .red {
+    background-color: red;
+  }
+  
+  .orange {
+    background-color: orange;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+  
+  .lightblue {
+    background-color: lightblue;
+  }
+  
+  .purple {
+    background-color: purple;
+  }
+  
+  .white {
+    background-color: #fff;
+  }
+  .navyblue {
+    background-color: navy;
+  }
+
+  .darkgreen {
+    background-color: darkgreen;
+
+  }
+
+
